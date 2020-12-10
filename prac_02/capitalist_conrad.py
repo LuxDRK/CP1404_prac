@@ -40,3 +40,4 @@ while price >= MIN_PRICE and price <= MAX_PRICE:
 
 out_file.close()
 
+
