@@ -25,5 +25,4 @@ def reportPrint(incomes, monthNum):
         total += income
         print("Month {:2} - Income: ${:10.2f} Total: ${:10.2f}".format(month, income, total))
 
-
 main()

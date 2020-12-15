@@ -40,3 +40,4 @@ print("{} {} for about ${:,.0f}!".format(year,name,cost))
 # 150
 for i in range (0,151,50):
     print("{:>3}".format(i))
+
